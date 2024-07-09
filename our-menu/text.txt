@@ -1,0 +1,114 @@
+1 SOUPS 
+
+AFFANG SOUP
+AFFANG ABAK SOUP (native special)
+ATAMA abak SOUP(
+Banga soup)
+BITTER LEAF SOUP
+MELON SOUP (Egusi )
+OKRO SOUP 
+OHA SOUP
+NATIVE SOUP 
+WHITE SOUP
+
+2 SWALLOW
+EBA
+FUFU
+SEMO
+WHEAT
+POUNDO
+
+
+
+3 MEALS 
+
+RICE /BUKKA STEW 
+JOLLOF RICE
+COCONUT RICE 
+PALM OIL RICE 
+POTTAGE BEANS 
+PLAIN BEANS
+SPAGHETTI
+FRIED PLANTAIN
+PAP / CUSTARD
+
+4 PROTEIN 
+BEEF
+GOAT
+CHICKEN
+KPOMO
+FRIED EGG
+FRIED ICE FISH
+BOIL EGG
+DRYCATFISH
+COW OFFALS PEPPERS SOUP
+
+5 SPECIAL ORDER
+ISI EWU
+SHAWARMA BEEF-CHICKEN
+FISHERMAN SOUP 
+
+6 DRINKS
+MILKSHAKE 
+COCKTAIL-VARITIES
+
+
+
+
+
+
+
+  <div class="eltdf-pricing-main" >
+                    <h6 class="eltdf-pricing-title">
+                        RICE /BUKKA STEW                    </h6>
+                    <div class="eltdf-pricing-lines"></div>
+                                            <span class="eltdf-pricing-price" >$32</span>
+                                    </div>
+                            <p class="eltdf-pricing-desc">Rich, savory stew over perfectly cooked rice.</p>
+                        </div>
+                            <div class="eltdf-pricing-item">
+                
+                <div class="eltdf-pricing-main" >
+                    <h6 class="eltdf-pricing-title">
+                        AFFANG ABAK SOUP                  </h6>
+                    <div class="eltdf-pricing-lines"></div>
+                                            <span class="eltdf-pricing-price" >$25</span>
+                                    </div>
+                            <p class="eltdf-pricing-desc">Authentic, flavorful soup with rich ingredients.</p>
+                        </div>
+                            <div class="eltdf-pricing-item">
+                
+                <div class="eltdf-pricing-main" >
+                    <h6 class="eltdf-pricing-title">
+                        ATAMA (abak) SOUP           </h6>
+                    <div class="eltdf-pricing-lines"></div>
+                                            <span class="eltdf-pricing-price" >$38</span>
+                                    </div>
+                            <p class="eltdf-pricing-desc">with well cooked meat, fish, kpomo and more..</p>
+                        </div>
+                            <div class="eltdf-pricing-item">
+                
+                <div class="eltdf-pricing-main" >
+                    <h6 class="eltdf-pricing-title">
+                        BITTER LEAF SOUP                    </h6>
+                    <div class="eltdf-pricing-lines"></div>
+                                            <span class="eltdf-pricing-price" >$38</span>
+                                    </div>
+                            <p class="eltdf-pricing-desc">Accurately washed bitter leaf with meat, fish and more</p>
+                        </div>
+        </div>		</div>
+	</div>
+</div><div class="eltdf-eh-item    "  data-item-class="eltdf-eh-custom-9966" data-769-1024="0 0" data-681-768="0 0" data-680="0 0">
+	<div class="eltdf-eh-item-inner">
+		<div class="eltdf-eh-item-content eltdf-eh-custom-9966" style="padding: 0 0 0 42px">
+			<div class="eltdf-pricing-holder ">
+                        <div class="eltdf-pricing-item">
+                
+                <div class="eltdf-pricing-main" >
+                    <h6 class="eltdf-pricing-title">
+                        MELON SOUP (Egusi)            </h6>
+                    <div class="eltdf-pricing-lines"></div>
+                                            <span class="eltdf-pricing-price" >$29</span>
+                                    </div>
+                            <p class="eltdf-pricing-desc">properly cooked Malon, meat, fish, kpomo</p>
+                        </div>
